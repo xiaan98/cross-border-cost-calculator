@@ -24,6 +24,8 @@
 
 ![首页](preview-home.png)
 
+![线上 Demo 实测（售价 $12.50）](preview-live.png)
+
 ---
 
 ## 文件结构
