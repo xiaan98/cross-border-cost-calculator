@@ -7,8 +7,8 @@
 | 项 | 内容 |
 | --- | --- |
 | 作品定位 | 面向跨境电商入门学习者的成本测算教学工具：填参数、算一笔单子赚不赚钱、知道卖到多少钱才不亏 |
-| 在线 Demo | （部署后填入 `https://xxx.streamlit.app`） |
-| 源码仓库 | （上传后填入 GitHub 仓库链接） |
+| 在线 Demo | https://cross-border-cost-calculator.streamlit.app |
+| 源码仓库 | https://github.com/xiaan98/cross-border-cost-calculator |
 | 技术栈 | Python 3.12、Streamlit、Pandas；计算逻辑与页面分离（`calculator.py` 为纯函数模块，可独立测试） |
 | 部署方式 | 本地双击 `启动计算器.bat` 即用；或托管到 Streamlit Community Cloud，公开链接访问 |
 
